@@ -1,0 +1,79 @@
+#Home h1 span strong::after {
+    content: "";
+    animation:typing__animation 3s infinite ease ;
+}
+
+@keyframes typing__animation {
+	0%{content:"D";}
+	1.72413793103448%{content:"De|";}
+	3.44827586206897%{content:"Dev|";}
+	5.17241379310345%{content:"Deve|";}
+	6.89655172413793%{content:"Devel|";}
+	8.62068965517241%{content:"Develo|";}
+	10.3448275862069%{content:"Develop|";}
+	12.0689655172414%{content:"Develope|";}
+	13.7931034482759%{content:"Developer|";}
+	15.5172413793103%{content:"Developer|";}
+	17.2413793103448%{content:"Developer|";}
+	18.9655172413793%{content:"Developer|";}
+	20.6896551724138%{content:"Develo|";}
+	22.4137931034483%{content:"Devel|";}
+	24.1379310344828%{content:"Deve|";}
+	25.8620689655172%{content:"Dev|";}
+	27.5862068965517%{content:"De|";}
+	29.3103448275862%{content:"D|";}
+	31.0344827586207%{content:"D|";}
+	32.7586206896552%{content:"De|";}
+	34.4827586206897%{content:"Des|";}
+	36.2068965517241%{content:"Desi|";}
+	37.9310344827586%{content:"Desig|";}
+	39.6551724137931%{content:"Design|";}
+	41.3793103448276%{content:"Designe|";}
+	43.1034482758621%{content:"Designer|";}
+	44.8275862068966%{content:"Designer|";}
+	46.5517241379311%{content:"Designer|";}
+	48.2758620689655%{content:"Designer|";}
+	50%{content:"Desig|";}
+	51.7241379310345%{content:"Desi|";}
+	53.448275862069%{content:"Des|";}
+	55.1724137931035%{content:"De|";}
+	56.896551724138%{content:"D|";}
+	58.6206896551724%{content:"B|";}
+	60.3448275862069%{content:"Ba|";}
+	62.0689655172414%{content:"Bab|";}
+	63.7931034482759%{content:"Babl|";}
+	65.5172413793104%{content:"Bablu |";}
+	67.2413793103449%{content:"Bablu |";}
+	68.9655172413793%{content:"Bablu |";}
+	70.6896551724138%{content:"Bablu |";}
+	72.4137931034483%{content:"Bablu |";}
+	74.1379310344828%{content:"Bablu |";}
+	75.8620689655172%{content:"Bablu |";}
+	77.5862068965517%{content:"Bablu |";}
+	79.3103448275862%{content:"Bablu |";}
+	81.0344827586207%{content:"Bablu |";}
+	82.7586206896551%{content:"Bablu |";}
+	84.4827586206896%{content:"Bablu |";}
+	86.2068965517241%{content:"Bablu |";}
+	87.9310344827586%{content:"Bablu |";}
+	89.6551724137931%{content:"Bablu |";}
+	91.3793103448275%{content:"Bablu |";}
+	93.103448275862%{content:"Bablu |";}
+	94.8275862068965%{content:"Babl|";}
+	96.551724137931%{content:"Bab|";}
+	98.2758620689654%{content:"Ba|";}
+	99.9999999999999%{content:"B|";}
+	
+    
+
+}
+
+
+
+
+
+
+
+
+
+
